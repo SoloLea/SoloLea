@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Leandro
-
+- 😄 Aprendendo front-end
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/SoloLea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoloLea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,7 +10,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/21969_b8iyWEUY.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/21969_he5qVnO1.png">
 </div>
   
 ##
